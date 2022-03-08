@@ -19,6 +19,5 @@ More about me....
 - 🔭 I’m currently working on BTC Net Worth Calculator. An application that can denominate your assets in Bitcoin instead of USD. The link to that project can be found here: https://github.com/BTC-Net-Worth-Denominator
 - 🌱 I’m currently doing a deep dive on back-end work, specfically Node.js.
 - 👯 I’m looking to collaborate on my BTC Net Worth Calculator project (back-end): https://github.com/BTC-Net-Worth-Denominator/back-end-core
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Bitcoin, cross-country cycling, or CrossFit!
 
