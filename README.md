@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### Peter Conley here!
 
-## I'm a Full Stack Web Developer & Bloomtech Alumni based out of Buffalo, NY
+#### I'm a Full Stack Web Developer & Bloomtech Alumni based out of Buffalo, NY
 
-## Technical Skills
+#### Technical Skills
 
 •Front End: HTML, CSS, JavaScript, React, Redux, Yup, Cypress, Axios
 •Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
