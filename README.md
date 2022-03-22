@@ -1,6 +1,6 @@
 ## Peter Conley here!
 
-### I'm a Full Stack Web Developer & Bloomtech Alumni based out of Buffalo, NY
+I'm a Full Stack Web Developer & Bloomtech Alumni based out of Buffalo, NY
 
 #### Technical Skills
 
@@ -17,8 +17,8 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 
 ##### More about me....
 
-- 🔭 I’m currently working on BTC Net Worth Calculator. An application that can denominate your assets in Bitcoin instead of USD. The link to that project can be found here: https://github.com/BTC-Net-Worth-Denominator
+- 🔭 I’m currently working on BTC Net Worth Calculator. An application that can denominate your assets in Bitcoin instead of USD. The link to that project can be [found here](https://github.com/BTC-Net-Worth-Denominator)
 - 🌱 I’m currently doing a deep dive on back-end work, specfically Node.js.
-- 👯 I’m looking to collaborate on my BTC Net Worth Calculator project (back-end): https://github.com/BTC-Net-Worth-Denominator/back-end-core
-- 💬 Ask me about Bitcoin, cross-country cycling, or CrossFit!
+- 👯 I’m looking to collaborate on my BTC Net Worth Calculator project, the [back-end repo](https://github.com/BTC-Net-Worth-Denominator/back-end-core). 
+- 💬 Ask me about Bitcoin, cross-country cycling, or yoga!
 
