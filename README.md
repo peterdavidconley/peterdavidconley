@@ -1,6 +1,6 @@
 ## Peter Conley here!
 
-I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/full-stack-web-development) Alumni based out of Buffalo, NY
+I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/full-stack-web-development) graduate who is currently living in Buffalo, NY
 
 ## Favorite Quote
 
