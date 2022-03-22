@@ -5,8 +5,9 @@
 
 #### Technical Skills
 
-•Front End: HTML, CSS, JavaScript, React, Redux, Yup, Cypress, Axios
-•Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
+Front End: HTML, CSS, JavaScript, React, Redux, Yup, Cypress, Axios
+
+Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
 
 ##### Below are the links to my profiles....
 
