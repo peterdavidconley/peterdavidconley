@@ -29,3 +29,8 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 - 👯 I’m looking to collaborate on my BTC Net Worth Calculator project, the [back-end repo](https://github.com/BTC-Net-Worth-Denominator/back-end-core). 
 - 💬 Ask me about Bitcoin, cross-country cycling, or yoga!
 
+## Favorite Quote
+
+"I have never let my schooling interfere with my education."
+-- Mark Twain
+
