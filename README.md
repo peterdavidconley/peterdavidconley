@@ -2,10 +2,6 @@
 
 I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/full-stack-web-development) graduate who is currently living in Buffalo, NY
 
-## Favorite Quote
-
-"I have never let my schooling interfere with my education."
--- Mark Twain
 
 ## Technical Skills
 
