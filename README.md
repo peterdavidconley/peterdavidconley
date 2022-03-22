@@ -1,7 +1,6 @@
-### Hi there 👋
-### Peter Conley here!
+## Peter Conley here!
 
-#### I'm a Full Stack Web Developer & Bloomtech Alumni based out of Buffalo, NY
+### I'm a Full Stack Web Developer & Bloomtech Alumni based out of Buffalo, NY
 
 #### Technical Skills
 
