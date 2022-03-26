@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 
 Front End: HTML, CSS, JavaScript, React, Redux, Yup, Cypress, Axios
 
-Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
+Back End: Node.js, Express, SQL, SQLiteStudio, PostgreSQL, Git, GitHub, VS Code, Vercel, Heroku, Netlify
 
 
 ## Below are the links to my profiles....
@@ -31,5 +31,5 @@ Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, H
 "I have never let my schooling interfere with my education."
 
 
--- Mark Twain
+- Mark Twain
 
