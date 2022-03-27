@@ -24,7 +24,7 @@ Back End: Node.js, Express, SQL, SQLiteStudio, PostgreSQL, Git, GitHub, VS Code,
 - 🌱 I’m currently doing a deep dive on back-end work, specfically Node.js.
 - 👯 I’m looking to collaborate on my BTC Net Worth Calculator project, the [back-end repo](https://github.com/BTC-Net-Worth-Denominator/back-end-core). 
 - 💬 Ask me about Bitcoin, cross-country cycling, or yoga!
-- I'm currently writing a book!
+- I'm currently writing a non-fiction book; "University of the Internet"
 
 ## Favorite Quote
 
