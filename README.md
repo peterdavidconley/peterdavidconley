@@ -21,8 +21,7 @@ Back End: Node.js, Express, SQL, SQLiteStudio, PostgreSQL, Git, GitHub, VS Code,
 ## More about me....
 
 - 🔭 I’m currently working on BTC Net Worth Calculator. An application that can denominate your assets in Bitcoin instead of USD. The link to that project can be [found here](https://github.com/BTC-Net-Worth-Denominator)
-- 🌱 I’m currently doing a deep dive on back-end work, specfically Node.js.
-- 👯 I’m looking to collaborate on my BTC Net Worth Calculator project, the [back-end repo](https://github.com/BTC-Net-Worth-Denominator/back-end-core). 
+- 👯 I’m looking to collaborate on my [BTC Net Worth Calculator](https://github.com/BTC-Net-Worth-Denominator) project. 
 - 💬 Ask me about Bitcoin, cross-country cycling, or yoga!
 - I'm currently writing a non-fiction book; "University of the Internet"
 
